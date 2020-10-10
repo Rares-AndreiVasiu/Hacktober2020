@@ -19,8 +19,5 @@ int main()
     cout.tie(NULL);
     cout<<gcd(12,18);
 
-
-
     return 0;
 }
-
